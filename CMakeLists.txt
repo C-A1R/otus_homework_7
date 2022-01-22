@@ -54,6 +54,7 @@ INCLUDE_DIRECTORIES ${Boost_INCLUDE_DIR}
 
 target_link_libraries(bayan PRIVATE
     ${Boost_LIBRARIES}
+    ${Boost_FILESYSTEM_LIBRARY}
     bayan_lib
 )
 target_link_libraries(test_Version
