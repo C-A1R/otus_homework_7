@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbayan_lib.a CMakeFiles/bayan_lib.dir/src/version/versionLib.cpp.o
+/usr/bin/ranlib libbayan_lib.a

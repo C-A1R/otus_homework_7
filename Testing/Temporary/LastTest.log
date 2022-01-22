@@ -1,0 +1,41 @@
+Start testing: Jan 22 23:20 UTC
+----------------------------------------------------------
+1/2 Testing: test_Version
+1/2 Test: test_Version
+Command: "/home/runner/work/otus_homework_7/otus_homework_7/test_Version"
+Directory: /home/runner/work/otus_homework_7/otus_homework_7
+"test_Version" start time: Jan 22 23:20 UTC
+Output:
+----------------------------------------------------------
+Running 1 test case...
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_Version" end time: Jan 22 23:20 UTC
+"test_Version" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_hash_processor
+2/2 Test: test_hash_processor
+Command: "/home/runner/work/otus_homework_7/otus_homework_7/test_hash_processor"
+Directory: /home/runner/work/otus_homework_7/otus_homework_7
+"test_hash_processor" start time: Jan 22 23:20 UTC
+Output:
+----------------------------------------------------------
+Running 3 test cases...
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_hash_processor" end time: Jan 22 23:20 UTC
+"test_hash_processor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 22 23:20 UTC

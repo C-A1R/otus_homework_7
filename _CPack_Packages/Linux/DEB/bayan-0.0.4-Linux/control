@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: bayan built using CMake
+Maintainer: example@example.com
+Package: bayan
+Priority: optional
+Section: devel
+Version: 0.0.4
+Installed-Size: 827
+

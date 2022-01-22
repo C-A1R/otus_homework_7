@@ -1,0 +1,15 @@
+OUTPUT_DIRECTORY       = /home/runner/work/otus_homework_7/otus_homework_7/
+INPUT                  = /home/runner/work/otus_homework_7/otus_homework_7/src/ 
+
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = bayan
+PROJECT_NUMBER         = 0.0.4
+PROJECT_BRIEF          = "Поиск дубликатов файлов в заданных директориях"
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = docs
+GENERATE_LATEX         = NO
+
+HAVE_DOT               = YES
+EXTRACT_ALL            = YES
+RECURSIVE              = YES
